@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "pack_id": "a869ee9245b823c11b50e73ebfe180d2f399fb0ebe058f9acf2af3b74bac0f20",
+      "created_at_unix": 1784261660,
+      "holders": [
+        "Joshabracks"
+      ],
+      "saturated_at_unix": null
+    }
+  ]
+}
