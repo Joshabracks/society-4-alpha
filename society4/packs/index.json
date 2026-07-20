@@ -2,6 +2,20 @@
   "schema": 1,
   "packs": [
     {
+      "pack_id": "41ec2db1695e70401d0bb1881937f840424d024521f4aea29e4aa8c48222b047",
+      "created_by": "Joshabracks",
+      "created_at_unix": 1784564337,
+      "message_count": 8,
+      "workspace": "Joshabracks/society-4-alpha"
+    },
+    {
+      "pack_id": "b9723b54e3a5bdb8ec3122f558e98ffffef1c5926cbd55a068479246e2e7f776",
+      "created_by": "Joshabracks",
+      "created_at_unix": 1784564334,
+      "message_count": 8,
+      "workspace": "Joshabracks/society-4-alpha"
+    },
+    {
       "pack_id": "644f85ea64c50868a4a7d5ea6c786f638e6b9dd239b4db331c7a243819d655b1",
       "created_by": "Joshabracks",
       "created_at_unix": 1784564326,
