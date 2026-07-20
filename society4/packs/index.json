@@ -2,58 +2,16 @@
   "schema": 1,
   "packs": [
     {
+      "pack_id": "a56127c2d9d6a2946aa14707a2451d6461e3aa4285bb5ec0eb8f8ec50e165b73",
+      "created_by": "Joshabracks",
+      "created_at_unix": 1784564382,
+      "message_count": 8,
+      "workspace": "Joshabracks/society-4-alpha"
+    },
+    {
       "pack_id": "213400fcd14fe7c06d1e1bac3ccd0a8ee4996b3b13db05c3b4e2d2676be39614",
       "created_by": "Joshabracks",
       "created_at_unix": 1784564373,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "4cfd782aac001598c0b387f9f31d313c5a7b4da9f78f92da2c133df0123c2bfa",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784564366,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "9e5638f7b3dac4b4bf167fc6ec7aa4d591707a8cbe53c36e5f3cc1c18711d983",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784564358,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "7bc4023a1ef72441f6bc25e17b059bab12ba5b29fe695c1ea9eb912a2ddca9a3",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784564350,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "b0ecdbc280611a086f6c81bf0f1a70e069b3f7295c82ad955afe5725f8b0fdf6",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784564342,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "b9723b54e3a5bdb8ec3122f558e98ffffef1c5926cbd55a068479246e2e7f776",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784564334,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "644f85ea64c50868a4a7d5ea6c786f638e6b9dd239b4db331c7a243819d655b1",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784564326,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "711821b0edf494da8c93424cf45d4ad43b4406b5ee28d997393d08eeef45f3cd",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784564317,
       "message_count": 8,
       "workspace": "Joshabracks/society-4-alpha"
     }
