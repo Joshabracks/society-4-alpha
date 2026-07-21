@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "workspace": "Joshabracks/society-4-alpha",
+  "created_by": "Joshabracks",
+  "created_at_unix": 1784667626,
+  "pack_id": "501da66ebe1878f4eaf245aa3d14271cc628273d145bd2c79c7b996716621425",
+  "tip_message_ids": [
+    "909d76e9f9a3d11dd9354a48f14dd652da8d32796ccf3f6830a1d16711e28b2a",
+    "ae36f64fffc260dee54fb413ed7cf1ccd447c79c106228de7605dc70587af49f",
+    "97a54a5d12d2c8a5b315d4a5162e7a8afdcd752758f174c786b4ed1383ab1457",
+    "f5df6443c5122ba1fb0b74a243f446c55c504eaf6fd30e26c642fc7970bbdbd0",
+    "89eaa0d5155c4c5510e33f9743d45b54735108b8e7b368ba0ffb35354b6e6d9c",
+    "8bb73de582f0f2d61ae1f6985c9ba8cacd4e6dc89bcfeee8be631510e4d32b0c",
+    "e2c0ee0bc9a4c16c6c57c4761905b69d571dcaf139043fce2b558ba9e01773ee"
+  ],
+  "parent_pack_ids": [
+    "c86052059fdfabdbacbbf0f136d4ae2eabc38fc4b8198745c63d2bfd57c7df37",
+    "6a07dd366b63b0e7fb45f97a19e8f41b540766ad37486cad22057e033c5b5d92",
+    "9f4c945ac77ab29ffece61165a19d033ae041839a2fa10f84dc4ad79edbfd22c",
+    "3c7bc0ecb910f0daf39fdcc67035bb2dabfe7c4e7477f4534823d2af66b7bb14",
+    "c3599ba17efd5faeed6bd1c954a9fbf97dd72f2417911fe27a79e5ffa139f410"
+  ],
+  "message_count": 8,
+  "payload_sha256_hex": "501da66ebe1878f4eaf245aa3d14271cc628273d145bd2c79c7b996716621425",
+  "payload_bytes": 3494,
+  "dek_wrapped_hex": "d680434e6aecdc8d033f32ec51b01e203270a6a98f9a5ef30bd2d6e305bcd3a7d7945adec83215cb4d5abfc7e3fa0cdf217659afc4aa33f7ffb625592c0de6d95dc7034f48eeb89f",
+  "aead": "xchacha20poly1305"
+}
