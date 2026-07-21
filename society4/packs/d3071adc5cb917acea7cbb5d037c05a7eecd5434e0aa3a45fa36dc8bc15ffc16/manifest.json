@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "workspace": "Joshabracks/society-4-alpha",
+  "created_by": "Joshabracks",
+  "created_at_unix": 1784666772,
+  "pack_id": "d3071adc5cb917acea7cbb5d037c05a7eecd5434e0aa3a45fa36dc8bc15ffc16",
+  "tip_message_ids": [
+    "909d76e9f9a3d11dd9354a48f14dd652da8d32796ccf3f6830a1d16711e28b2a",
+    "ae36f64fffc260dee54fb413ed7cf1ccd447c79c106228de7605dc70587af49f",
+    "97a54a5d12d2c8a5b315d4a5162e7a8afdcd752758f174c786b4ed1383ab1457",
+    "f5df6443c5122ba1fb0b74a243f446c55c504eaf6fd30e26c642fc7970bbdbd0",
+    "89eaa0d5155c4c5510e33f9743d45b54735108b8e7b368ba0ffb35354b6e6d9c",
+    "8bb73de582f0f2d61ae1f6985c9ba8cacd4e6dc89bcfeee8be631510e4d32b0c",
+    "e2c0ee0bc9a4c16c6c57c4761905b69d571dcaf139043fce2b558ba9e01773ee"
+  ],
+  "parent_pack_ids": [
+    "bcc5de38bb28dfe2bf7f2281215bbe48a1be6885950d3bd4d5bf7f0be089c8c1",
+    "3ffd6eb57702cc0523ab9cf93cb54d63e597f217a81dbd836ab4f66eb9a17731",
+    "b0ff7d2456d8c947a114284ad2f7f37239c0bf7a53a91e18dee9ba7d6844ffb4",
+    "be6d1d7eea17f3be4dc9cd89c111431c521f9dbcda398b550e18b24b2dc557b2",
+    "6413b88c5b5f30c943cd4d67fd59b048de5c5782b5a4ff0b8867a5266fbd156c",
+    "505fbe2cf33a2e42d717d2589e1d1ab359727c588a96c902ec09e5b4de80f698",
+    "249e1300ec48e6c73df3659894bf0efc8a85f24a096f9ae48ba3c42fef8daf1f",
+    "c54a091871788039683cc96d4757bf63a812a0ee73e2720771957813fe295ed6",
+    "e58a3e56eba6355a096f37d7dadd1d409e4b585a248b0e172ec623dec92f00db",
+    "cf3e4d7e7343dc11e50c5827b9067b83d3cf315b9cc0737f44b0fbb56e1089a3"
+  ],
+  "message_count": 8,
+  "payload_sha256_hex": "d3071adc5cb917acea7cbb5d037c05a7eecd5434e0aa3a45fa36dc8bc15ffc16",
+  "payload_bytes": 3494,
+  "dek_wrapped_hex": "00634c05b2df61c5ba0d14af252f0151e9d069ae55d5fe2e414c3b1f9f0de96f248d602102436f1379845f0850659ee76f415aa17e18c7c9037aa8a16564b22998d90638ddc663af",
+  "aead": "xchacha20poly1305"
+}
