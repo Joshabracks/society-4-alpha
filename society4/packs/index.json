@@ -2,6 +2,13 @@
   "schema": 1,
   "packs": [
     {
+      "pack_id": "d9aae88675c08092f93f2318d2e158d1b2b22b26c9b0f03e373df8be775d0f32",
+      "created_by": "Joshabracks",
+      "created_at_unix": 1784669227,
+      "message_count": 8,
+      "workspace": "Joshabracks/society-4-alpha"
+    },
+    {
       "pack_id": "b756455a9492c7d07728d955faf2e3c903833632802fb3ee2d284d8f55608971",
       "created_by": "Joshabracks",
       "created_at_unix": 1784669216,
