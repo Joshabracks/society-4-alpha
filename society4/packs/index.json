@@ -2,86 +2,9 @@
   "schema": 1,
   "packs": [
     {
-      "pack_id": "f4201f7d6d83db07d73d5eb13f8a2b80efa4abf513ae4757ed6fd785ce29ac70",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669779,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
       "pack_id": "1c620ff1d2fae351f3a7e71882b068f57c73edf3cbb92646fcd6296f1130e4e4",
       "created_by": "Joshabracks",
       "created_at_unix": 1784669777,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "e6a80f39b6e8d979f492e28a26ba1ef1e620ea257069c7242fc99ea9f9d9116e",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669771,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "c4fd6a76a3152d0f17ec74378ce69ff94a6efa017715be5e068d809c7e8f2258",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669767,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "440ce379ff395add7118414711d946f0b9406955cbf2813976a4be3c2bacf659",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669763,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "3e67700fa6dc346b9e673505a14a620def73f19ed03e74975a4313c9b0629e3d",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669759,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "7aa17ddad2bbf6590766a43fa90317748cde37b9159f8088ce03073af072083d",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669755,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "9a2af016c2c1a1c6cfb40ae07ee0e2b80bcf41f4e28e1c6a4827b7a6ca2def40",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669747,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "cb90082bca5b88cf07955e88beef9e7a424fb9f89745300f7e5bf0428fc28d6f",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669739,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "5d4999aafda0d863570fa019f3bf151de7f3028c4d5c1c8a77691173bfddfc1c",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669731,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "5aff2390cc847a6cb7d7f7aa85e53f9d8e944fa358611d48bedd5ef4b64671c8",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669723,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "714da1dc4c0024ee7f86aea60ccbb3147735f85bb6fcc5fee0c642bad8e4c8c5",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669720,
       "message_count": 8,
       "workspace": "Joshabracks/society-4-alpha"
     }
