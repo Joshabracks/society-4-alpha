@@ -1,5 +1,6 @@
 {
   "schema": 1,
   "display_name": "",
-  "cold_backup_enabled": true
+  "cold_backup_enabled": true,
+  "icon_filename": "workspace_icon.svg"
 }
