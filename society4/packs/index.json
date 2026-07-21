@@ -2,23 +2,9 @@
   "schema": 1,
   "packs": [
     {
-      "pack_id": "53fa7a0ea56ffce842988d9a604205c9fae27bbb686c8daef65545002b55d1b0",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669435,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
       "pack_id": "5d95a090ecba14885311cea0502b70020b7ac0caeeae2b3894489c04cf542b83",
       "created_by": "Joshabracks",
       "created_at_unix": 1784669433,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "b592b9703d740c0730d552a2e9f9f1c00eee7c1127bfd16b1dd31922185ddabd",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1784669426,
       "message_count": 8,
       "workspace": "Joshabracks/society-4-alpha"
     }
