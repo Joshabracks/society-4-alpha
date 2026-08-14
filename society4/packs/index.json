@@ -2,9 +2,9 @@
   "schema": 1,
   "packs": [
     {
-      "pack_id": "bc7b62fab70aa75d820b4d964233f4c669d202dde58437650bdd4de58e3f2ab6",
+      "pack_id": "385b38bca8e63cb2838c6ec75adfaebb807cdc66eabb95c061d958dfed5c6233",
       "created_by": "Joshabracks",
-      "created_at_unix": 1786737966,
+      "created_at_unix": 1786737968,
       "message_count": 8,
       "workspace": "Joshabracks/society-4-alpha"
     },
