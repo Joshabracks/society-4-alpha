@@ -2,51 +2,16 @@
   "schema": 1,
   "packs": [
     {
+      "pack_id": "1cbd7b4513a2ef39515a82d601d6d8d2dcfa3f2b8fb8bc8c9c78256c405f2b98",
+      "created_by": "Joshabracks",
+      "created_at_unix": 1788363351,
+      "message_count": 8,
+      "workspace": "Joshabracks/society-4-alpha"
+    },
+    {
       "pack_id": "20bd9ca6b56195f4f9d03495c9c121fdd9adb4fd6537ea87e811f6ffb2c6a113",
       "created_by": "Joshabracks",
       "created_at_unix": 1788363340,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "8bf5e29c5107fc4b1953b126bf27bb8040cb55a32db269246d32fa4ba3f3cc7b",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1788363336,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "8ab1e2fa0e59760bc935cad6e82b96e54e5462273346ac5775165090c74827be",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1788363327,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "3be6ff500a826fd47ff58a89d0833eb802ef7aef335af9699163332b69cad6a9",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1788363322,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "cfdf39325841cbdffa835691882e975f73ac66ae3f786db3856ac1655059b275",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1788363319,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "59ad25a4425bd78b926721da360ff5668d2d9a438b9f92fcc635fc2df52dacea",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1788363313,
-      "message_count": 8,
-      "workspace": "Joshabracks/society-4-alpha"
-    },
-    {
-      "pack_id": "c68cfa4715464443f7b19632dead5123744635d5a82336ea2aa67e603ef3d1e1",
-      "created_by": "Joshabracks",
-      "created_at_unix": 1788363304,
       "message_count": 8,
       "workspace": "Joshabracks/society-4-alpha"
     }
