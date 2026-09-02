@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "workspace": "Joshabracks/society-4-alpha",
+  "created_by": "Joshabracks",
+  "created_at_unix": 1788362839,
+  "pack_id": "0313a9e626e3665d0d5f8e75c2c224292513225501eaa2ebf48d7390c10c9242",
+  "tip_message_ids": [
+    "909d76e9f9a3d11dd9354a48f14dd652da8d32796ccf3f6830a1d16711e28b2a",
+    "ae36f64fffc260dee54fb413ed7cf1ccd447c79c106228de7605dc70587af49f",
+    "97a54a5d12d2c8a5b315d4a5162e7a8afdcd752758f174c786b4ed1383ab1457",
+    "f5df6443c5122ba1fb0b74a243f446c55c504eaf6fd30e26c642fc7970bbdbd0",
+    "89eaa0d5155c4c5510e33f9743d45b54735108b8e7b368ba0ffb35354b6e6d9c",
+    "8bb73de582f0f2d61ae1f6985c9ba8cacd4e6dc89bcfeee8be631510e4d32b0c",
+    "e2c0ee0bc9a4c16c6c57c4761905b69d571dcaf139043fce2b558ba9e01773ee"
+  ],
+  "parent_pack_ids": [],
+  "message_count": 8,
+  "payload_sha256_hex": "0313a9e626e3665d0d5f8e75c2c224292513225501eaa2ebf48d7390c10c9242",
+  "payload_bytes": 3494,
+  "dek_wrapped_hex": "a4196b102fc0df21692a6ba8b1430d1501284982536c98c57fc6938c77c57b891d1ae23fd5cd5cb655cf9caa2af0ad1a7d11664983d34a424e8f8a27039dfa25555ac00cb94bf4a6",
+  "aead": "xchacha20poly1305"
+}
