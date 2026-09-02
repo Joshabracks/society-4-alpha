@@ -2,7 +2,14 @@
   "schema": 1,
   "packs": [
     {
-      "pack_id": "29b794459d8244470c84836dcfabd0746e4e2e31d9c2ca43eface5d7d969132d",
+      "pack_id": "78853fd52d8275634a4118e2ab11a06b4ec5173129472b64235e957dbe678064",
+      "created_by": "Joshabracks",
+      "created_at_unix": 1788362418,
+      "message_count": 8,
+      "workspace": "Joshabracks/society-4-alpha"
+    },
+    {
+      "pack_id": "aa0baa8a3785f8372f58ea7c6c42203afe2691e1f357442cff7d265778d4c1c6",
       "created_by": "Joshabracks",
       "created_at_unix": 1788362409,
       "message_count": 8,
